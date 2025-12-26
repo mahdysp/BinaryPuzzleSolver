@@ -1,0 +1,4 @@
+# This project uses only standard Python libraries.
+# No external packages are required.
+
+# Tkinter is included in the standard Python distribution.
