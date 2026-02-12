@@ -1,4 +1,4 @@
-## 🧩Functions Overview
+## 🧩Functions Overview 
 **Binary Puzzle Solver** is a Python application with a **Tkinter GUI** that allows users to create, edit, and automatically solve binary puzzles. The solver uses advanced techniques from Constraint Satisfaction Problems (CSP) including **backtracking, MRV, LCV, and forward checking** to efficiently solve puzzles of various sizes.
 ## ✨Features
 
